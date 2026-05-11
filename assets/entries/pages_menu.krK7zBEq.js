@@ -1,4 +1,7 @@
-import{j as e,R as c,a as s,i as a,P as m,b as p,c as u}from"../chunks/chunk-BR75Kv1E.js";import{A as n}from"../chunks/chunk-6IiCVm80.js";/* empty css                      */const d="Matememo",h=[{id:"QI1Li2-PHv8kWkJ93d6Ac"},{id:"EmHN_i34DdQr_i2NnaQuw",maxWidth:991},{id:"BgODaMwK5XOWtXjbL1eWG",maxWidth:767},{id:"lfURoLM0DiPzfO5ngKKou",maxWidth:479}],b="favicon-512_QmLTHyUiosXPIubehChgP.png",g=[],f=[],w=i=>e.jsxs("body",{className:"w-element w-element-77",children:[e.jsx("div",{className:"w-element w-element-17",children:e.jsx("a",{href:"/",className:"w-element w-element-16",children:"Atgal"})}),e.jsx("div",{className:"w-element w-div",children:e.jsx(n,{code:`<style>
+import { j as e, R as c, a as s, i as a, P as m, b as p, c as u } from "../chunks/chunk-BR75Kv1E.js"; import { A as n } from "../chunks/chunk-6IiCVm80.js";/* empty css                      */const d = "Matememo", h = [{ id: "QI1Li2-PHv8kWkJ93d6Ac" }, { id: "EmHN_i34DdQr_i2NnaQuw", maxWidth: 991 }, { id: "BgODaMwK5XOWtXjbL1eWG", maxWidth: 767 }, { id: "lfURoLM0DiPzfO5ngKKou", maxWidth: 479 }], b = "favicon-512_QmLTHyUiosXPIubehChgP.png", g = [], f = [], w = i => e.jsxs("body", {
+  className: "w-element w-element-77", children: [e.jsx("div", { className: "w-element w-element-17", children: e.jsx("a", { href: "/", className: "w-element w-element-16", children: "Atgal" }) }), e.jsx("div", {
+    className: "w-element w-div", children: e.jsx(n, {
+      code: `<style>
   #selection-widget button {
     padding: 12px 18px;
     margin: 8px;
@@ -75,22 +78,22 @@ import{j as e,R as c,a as s,i as a,P as m,b as p,c as u}from"../chunks/chunk-BR7
     const links = {
       '5-6': {
         'first-half': {
-          '11-13': 'https://admin:webstudio@matememo-akz20.wstd.io/Calender26L1D1M',
-          '13-15': 'https://admin:webstudio@matememo-akz20.wstd.io/Calender26L1D2M'
+          '11-13': 'https://matememo.netlify.app/Calender26L1D1M',
+          '13-15': 'https://matememo.netlify.app/Calender26L1D2M'
         },
         'second-half': {
-          '11-13': 'https://admin:webstudio@matememo-akz20.wstd.io/Calender26L2D1M',
-          '13-15': 'https://admin:webstudio@matememo-akz20.wstd.io/Calender26L2D2M'
+          '11-13': 'https://matememo.netlify.app/Calender26L2D1M',
+          '13-15': 'https://matememo.netlify.app/Calender26L2D2M'
         }
       },
       '7-8': {
         'first-half': {
-          '11-13': 'https://admin:webstudio@matememo-akz20.wstd.io/Calender26L1D1D',
-          '13-15': 'https://admin:webstudio@matememo-akz20.wstd.io/Calender26L1D2D'
+          '11-13': 'https://matememo.netlify.app/Calender26L1D1D',
+          '13-15': 'https://matememo.netlify.app/Calender26L1D2D'
         },
         'second-half': {
-          '11-13': 'https://admin:webstudio@matememo-akz20.wstd.io/Calender26L2D1D',
-          '13-15': 'https://admin:webstudio@matememo-akz20.wstd.io/Calender26L2D2D'
+          '11-13': 'https://matememo.netlify.app/Calender26L2D1D',
+          '13-15': 'https://matememo.netlify.app/Calender26L2D2D'
         }
       }
     };
@@ -101,10 +104,14 @@ import{j as e,R as c,a as s,i as a,P as m,b as p,c as u}from"../chunks/chunk-BR7
       window.location.href = url;
     }
   }
-<\/script>`,className:"w-html-embed w-html-embed-1"})}),e.jsx("div",{className:"w-element w-element-78",children:" 2026 liepa, 2 savaitės, 6 online užsiėmimai mokiniui - 150 Eur"}),e.jsx("div",{className:"w-element",children:e.jsx(n,{code:`<div class="grade-switcher">
+<\/script>`, className: "w-html-embed w-html-embed-1"
+    })
+  }), e.jsx("div", { className: "w-element w-element-78", children: " 2026 liepa, 2 savaitės, 6 online užsiėmimai mokiniui - 150 Eur" }), e.jsx("div", {
+    className: "w-element", children: e.jsx(n, {
+      code: `<div class="grade-switcher">
   <!-- IMAGE 1 -->
   <div class="slide active" id="slide1">
-    <img src="https://matememo-akz20.wstd.io/cgi/image/5-6-kl-steam-info-752-1012_CJrlbQoxKxv_vVsloOs7z.png?width=1920&amp;quality=80&amp;format=auto" alt="5-6 klasė">
+    <img src="/assets/5-6-kl-steam-info-752-1012_CJrlbQoxKxv_vVsloOs7z.png" alt="5-6 klasė">
 
     <button class="switch-btn right" onclick="showSlide(2)">
       7 – 8 kl →
@@ -113,7 +120,7 @@ import{j as e,R as c,a as s,i as a,P as m,b as p,c as u}from"../chunks/chunk-BR7
 
   <!-- IMAGE 2 -->
   <div class="slide" id="slide2">
-    <img src="https://matememo-akz20.wstd.io/cgi/image/7-8-kl-steam-info-752-1012_P8dQPuulZ6F1kEdfLa_GW.png?width=1920&amp;quality=80&amp;format=auto" alt="7-8 klasė">
+    <img src="/assets/7-8-kl-steam-info-752-1012_P8dQPuulZ6F1kEdfLa_GW.png" alt="7-8 klasė">
 
     <button class="switch-btn left" onclick="showSlide(1)">
       ← 5 – 6 kl
@@ -212,4 +219,7 @@ function showSlide(slideNumber) {
     .getElementById('slide' + slideNumber)
     .classList.add('active');
 }
-<\/script>`,className:"w-html-embed"})}),e.jsx("div",{className:"w-element w-element-80",children:"Matememo, 2026"})]}),x=({data:i})=>{const{system:t,resources:r,url:o,pageMeta:l}=i;return e.jsxs(c.Provider,{value:{imageLoader:a,assetBaseUrl:s,resources:r,breakpoints:h,onError:console.error},children:[e.jsx(w,{system:t},o),e.jsx(m,{url:o,pageMeta:l,siteName:d,imageLoader:a,assetBaseUrl:s}),e.jsx(p,{children:l.title})]})},v=Object.freeze(Object.defineProperty({__proto__:null,default:x},Symbol.toStringTag,{value:"Module"})),k=({})=>{const i={"@context":"https://schema.org","@type":"WebSite",name:d};return e.jsxs(e.Fragment,{children:[e.jsx("script",{type:"application/ld+json",dangerouslySetInnerHTML:{__html:JSON.stringify(i,null,2)}}),e.jsx("link",{rel:"icon",href:a({src:`${s}${b}`})}),g.map(t=>e.jsx("link",{rel:"preload",href:`${s}${t}`,as:"font",crossOrigin:"anonymous"},t)),f.map(t=>e.jsx("link",{rel:"preload",href:`${s}${t}`,as:"image"},t))]})},y=Object.freeze(Object.defineProperty({__proto__:null,Head:k},Symbol.toStringTag,{value:"Module"})),S={isClientRuntimeLoaded:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:!0}},onBeforeRenderEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:null}},dataEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:{server:!0}}},onRenderClient:{type:"standard",definedAtData:{filePathToShowToUser:"/renderer/+onRenderClient.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:u}},Page:{type:"standard",definedAtData:{filePathToShowToUser:"/pages/menu/+Page.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:v}},Head:{type:"standard",definedAtData:{filePathToShowToUser:"/pages/menu/+Head.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:y}}};export{S as configValuesSerialized};
+<\/script>`, className: "w-html-embed"
+    })
+  }), e.jsx("div", { className: "w-element w-element-80", children: "Matememo, 2026" })]
+}), x = ({ data: i }) => { const { system: t, resources: r, url: o, pageMeta: l } = i; return e.jsxs(c.Provider, { value: { imageLoader: a, assetBaseUrl: s, resources: r, breakpoints: h, onError: console.error }, children: [e.jsx(w, { system: t }, o), e.jsx(m, { url: o, pageMeta: l, siteName: d, imageLoader: a, assetBaseUrl: s }), e.jsx(p, { children: l.title })] }) }, v = Object.freeze(Object.defineProperty({ __proto__: null, default: x }, Symbol.toStringTag, { value: "Module" })), k = ({ }) => { const i = { "@context": "https://schema.org", "@type": "WebSite", name: d }; return e.jsxs(e.Fragment, { children: [e.jsx("script", { type: "application/ld+json", dangerouslySetInnerHTML: { __html: JSON.stringify(i, null, 2) } }), e.jsx("link", { rel: "icon", href: a({ src: `${s}${b}` }) }), g.map(t => e.jsx("link", { rel: "preload", href: `${s}${t}`, as: "font", crossOrigin: "anonymous" }, t)), f.map(t => e.jsx("link", { rel: "preload", href: `${s}${t}`, as: "image" }, t))] }) }, y = Object.freeze(Object.defineProperty({ __proto__: null, Head: k }, Symbol.toStringTag, { value: "Module" })), S = { isClientRuntimeLoaded: { type: "computed", definedAtData: null, valueSerialized: { type: "js-serialized", value: !0 } }, onBeforeRenderEnv: { type: "computed", definedAtData: null, valueSerialized: { type: "js-serialized", value: null } }, dataEnv: { type: "computed", definedAtData: null, valueSerialized: { type: "js-serialized", value: { server: !0 } } }, onRenderClient: { type: "standard", definedAtData: { filePathToShowToUser: "/renderer/+onRenderClient.tsx", fileExportPathToShowToUser: [] }, valueSerialized: { type: "plus-file", exportValues: u } }, Page: { type: "standard", definedAtData: { filePathToShowToUser: "/pages/menu/+Page.tsx", fileExportPathToShowToUser: [] }, valueSerialized: { type: "plus-file", exportValues: v } }, Head: { type: "standard", definedAtData: { filePathToShowToUser: "/pages/menu/+Head.tsx", fileExportPathToShowToUser: [] }, valueSerialized: { type: "plus-file", exportValues: y } } }; export { S as configValuesSerialized };
