@@ -107,6 +107,9 @@ import { j as e, R as c, a as s, i as a, P as m, b as p, c as u } from "../chunk
 <\/script>`, className: "w-html-embed w-html-embed-1"
     })
   }), e.jsx("div", { className: "w-element w-element-78", children: " 2026 liepa, 2 savaitės, 6 online užsiėmimai mokiniui - 150 Eur" }), e.jsx("div", {
+    className: "w-element w-element-78",
+    children: "Jei kiltų klausimų, mielai atsakysiu +37067462042, matememo@proton.me"
+  }), e.jsx("div", {
     className: "w-element", children: e.jsx(n, {
       code: `<div class="grade-switcher">
   <!-- IMAGE 1 -->
