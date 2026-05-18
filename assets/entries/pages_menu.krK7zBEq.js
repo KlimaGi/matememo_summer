@@ -155,7 +155,7 @@ import { j as e, R as c, a as s, i as a, P as m, b as p, c as u } from "../chunk
 /* BUTTON */
 .switch-btn {
   position: absolute;
-  top: -10px;
+  top: 0px;
   
   background: rgba(34, 102, 141, 0.92);
   color: #FFFADD;
