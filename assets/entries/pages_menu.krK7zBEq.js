@@ -29,7 +29,8 @@ import { j as e, R as c, a as s, i as a, P as m, b as p, c as u } from "../chunk
 
 <div id="selection-widget" style="max-width: 500px; margin: 0 auto; font-family: sans-serif; background: #ffffff; border-radius: 10px; padding: 10px; border: 1px solid #dadada">
   <div class="step" id="step1">
-    <h3 style="margin: 0 10px">Pasirinkite klasę</h3>
+    <h3 style="margin: 10px 10px 0">Pasirinkite klasę ir laiką</h3>
+    <p style="margin: 0 10px; font-size: 14px; line-height: 24px;">Ties valandos pasirinkimu atsidarys kalendorius, jame matysite dienų išsidėstymą. Kalendoriaus viršuje matysite Registracijos mygtuką, jį paspaudus atsidarys registracijos forma su išsamia informacija.</p>
     <button onclick="selectClass('5-6', this)">5–6 kl.</button>
     <button onclick="selectClass('7-8', this)">7–8 kl.</button>
   </div>
@@ -106,9 +107,6 @@ import { j as e, R as c, a as s, i as a, P as m, b as p, c as u } from "../chunk
   }
 <\/script>`, className: "w-html-embed w-html-embed-1"
     })
-  }), e.jsx("div", { className: "w-element w-element-78", children: " 2026 liepa, 2 savaitės, 6 online užsiėmimai mokiniui - 150 Eur" }), e.jsx("div", {
-    className: "w-element w-element-78",
-    children: "Jei kiltų klausimų, mielai atsakysiu +37067462042, matememo@proton.me"
   }), e.jsx("div", {
     className: "w-element", children: e.jsx(n, {
       code: `<div class="grade-switcher">
@@ -157,7 +155,7 @@ import { j as e, R as c, a as s, i as a, P as m, b as p, c as u } from "../chunk
 /* BUTTON */
 .switch-btn {
   position: absolute;
-  top: 20px;
+  top: -10px;
   
   background: rgba(34, 102, 141, 0.92);
   color: #FFFADD;
