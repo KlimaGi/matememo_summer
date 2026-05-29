@@ -30,7 +30,8 @@ import { j as e, R as c, a as s, i as a, P as m, b as p, c as u } from "../chunk
 <div id="selection-widget" style="max-width: 500px; margin: 0 auto; font-family: sans-serif; background: #ffffff; border-radius: 10px; padding: 10px; border: 1px solid #dadada">
   <div class="step" id="step1">
     <h3 style="margin: 10px 10px 0">Pasirinkite klasę ir laiką</h3>
-    <p style="margin: 0 10px; font-size: 14px; line-height: 24px;">Ties valandos pasirinkimu atsidarys kalendorius, jame matysite dienų išsidėstymą. Kalendoriaus viršuje matysite Registracijos mygtuką, jį paspaudus atsidarys registracijos forma su išsamia informacija.</p>
+    <p style="margin: 0 10px; font-size: 14px; line-height: 24px;">Užsiėmimų laikai ir daugiau informacijos, kai pasirinksite klasę ir laiką.</p>
+    <p style="margin: 0 10px; font-size: 14px; line-height: 24px;"><b>6 užsiėmimai</b>, užsiėmimo trukmė <b>2 val</b>. Užsiėmimų kaina <b>150 Eur</b>.</p>
     <button onclick="selectClass('5-6', this)">5–6 kl.</button>
     <button onclick="selectClass('7-8', this)">7–8 kl.</button>
   </div>
